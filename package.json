@@ -1,0 +1,21 @@
+{
+  "name": "mica-blue-dark-theme",
+  "displayName": "Mica Blue Dark",
+  "description": "Windows 11 Mica effect theme with colors of the default blue wallpaper",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mica Blue Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mica-blue-dark-color-theme.json"
+      }
+    ]
+  }
+}
