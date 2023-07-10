@@ -6,7 +6,7 @@ Mica Blue Dark is a Visual Studio Code theme inspired by Windows 11's mica effec
 
 ## Installation
 
-1. Clone the repo to `~/.vscode/extensions`` or `C:\Users\username\.vscode\extensions` using the command `git clone https://github.com/sidevesh/vscode-mica-blue-dark-theme.git ~/.vscode/extensions/sidevesh.mica-blue-dark-theme-0.0.1`
+1. Clone the repo to `~/.vscode/extensions` or `C:\Users\username\.vscode\extensions` using the command `git clone https://github.com/sidevesh/vscode-mica-blue-dark-theme.git ~/.vscode/extensions/sidevesh.mica-blue-dark-theme-0.0.1`
 4. Activate the theme by going to `View -> Command Palette` or using the shortcut `Ctrl+Shift+P`, then type `Preferences: Color Theme` and choose "Mica Blue Dark"
 
 ## Screenshots
